@@ -1,0 +1,22 @@
+body{
+	background-image: url("bg.jpg");
+	background-repeat: repeat-x;
+	background-size: auto;
+	color: #fff;
+	font-family: sans-serif;
+	font-size: 2em;
+	text-align: center;
+}
+canvas{
+	float: right;
+	margin-right: 20%;
+	margin-top: 4%;
+	border: solid .2em #fff;
+	height: 90vh;
+}
+#score{
+	margin: 100px;
+	font-size: 100px;
+	float: left
+
+}
